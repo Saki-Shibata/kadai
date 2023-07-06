@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.box1{
+  width: 100%;
+  display: table;
+  margin-bottom: 50px;
+}
+.commonbox{
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+.redbox{
+  width: 300px;
+  background-color: #ff7b7b;
+}
+.bluebox{
+  background-color: #7b86ff;
+}
+.yellowbox{
+  width: 300px;
+  background-color: #fff27b;
+}
+
+.greenbox{
+  background-color: #7bff91;
+}
+.pinkbox{
+  width: 400px;
+  background-color: #ff7be2;
+}
+.orangebox{
+  width: 400px;
+  background-color: #ffc67b;
+}
+.l_bluebox{
+  background-color: #7bf2ff;
+}
